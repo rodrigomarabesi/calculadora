@@ -1,4 +1,4 @@
-Calculadora
+#Calculadora
 
 O projeto consiste numa calculadora simples que executas as 4 operações básicas da matemática e imprime o resultado na tela, e também uma tela "sobre".
 
