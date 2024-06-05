@@ -1,16 +1,7 @@
 # entrega_calculadora
 
-A new Flutter project.
+O projeto consiste numa calculadora simples que executas as 4 operações básicas da matemática e imprime o resultado na tela, e também uma tela "sobre".
 
-## Getting Started
+Para rodar, basta apenas clonar o repositório e inicializar o programa.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O programa foi feito utilizando um celular Android conectado ao computador, então eu recomendo que o teste para visualizar seja feito da mesma maneira ou com o uso de um emulador, já que pelo navegador não está muito responsivo.
